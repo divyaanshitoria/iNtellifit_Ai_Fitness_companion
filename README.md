@@ -76,7 +76,8 @@ pip install mediapipe opencv-python numpy matplotlib
 
 You can capture screenshots using your system while the webcam feed is running. A screenshot might look like this:
 
-> ![Example Webcam Feed with Pose Landmarks](#)  ← *(Replace with an actual image if available)*
+>
+![image](https://github.com/user-attachments/assets/ce3fa154-6c5a-4416-940e-4b051a093f18)
 
 ---
 
