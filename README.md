@@ -81,9 +81,4 @@ You can capture screenshots using your system while the webcam feed is running. 
 
 ---
 
-## 🔧 Configuration
 
-No special configuration needed. Just ensure:
-- Webcam is connected and accessible
-- Python 3.8+ is installed
-- All dependencies are installed
